@@ -1,0 +1,15 @@
+{
+  "name": "jquery_form_validation",
+  "version": "1.0.0",
+  "description": "Day 26 Jquery form validation activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Brandon Wall",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
